@@ -1,0 +1,36 @@
+nav {
+  height: 98px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #ffcf00;
+  border-radius: 10px;
+}
+ul {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+ul li {
+  list-style: none;
+}
+ul li h1 {
+  font-size: 26px;
+  font-family: sans-serif;
+  font-weight: 100;
+}
+ul li img {
+  height: 98px;
+}
+ul li span {
+  width: 55px;
+  height: 55px;
+  font-size: 30x    px;
+  font-family: sans-serif;
+  color: white;
+  background-color: #f87c7c;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
